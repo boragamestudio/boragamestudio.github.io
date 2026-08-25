@@ -10,4 +10,4 @@ Ikanakya uses Google AdMob and the Google Mobile Ads SDK to offer optional rewar
 
 Ikanakya uses Google’s User Messaging Platform (UMP) to request and manage advertising consent where legally required. Available privacy choices can be reviewed through the Privacy Options control in the game.
 
-For more information, see [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).# boragamestudio.github.io
+For more information, see [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).
